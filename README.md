@@ -4,7 +4,7 @@ This repository contains the Kubernetes manifests deployed by Argo CD for the **
 
 The K3d cluster and Argo CD installation are managed from the main project repository:
 
-> **Main repository:** `https://github.com/s-t-e-v/inception-of-things`
+> **Main repository:** https://github.com/s-t-e-v/inception-of-things
 
 ## Repository structure
 
