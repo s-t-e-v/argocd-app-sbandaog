@@ -37,7 +37,7 @@ kind: Ingress
 metadata:
   name: app-ingress
   annotations:
-    nginx.ingress.kubernetes.io/rewrite-target: false
+    nginx.ingress.kubernetes.io/rewrite-target: "false"
 spec:
   rules:
   - http:
